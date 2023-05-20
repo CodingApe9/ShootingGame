@@ -25,4 +25,5 @@
 2. 스페이스바를 이용해 총알 발사. (연사 가능)
 	상대에게 총알을 맞추면 세 번 깜빡이고 사라짐
 	그리고 점수는 10 증가.
+	
 ![image](https://github.com/CodingApe9/ShootingGame/assets/117576404/a6660f98-8b3c-42e4-a9f1-79b4b7ff0f1b)
